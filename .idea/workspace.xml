@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_1631_MinimumEffortPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_992_SubarraysWithKDistinct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_1631_MinimumEffortPath.java">
+        <entry file="file://$PROJECT_DIR$/src/_992_SubarraysWithKDistinct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="200">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,12 +77,13 @@
         <option value="$PROJECT_DIR$/src/_978_MaxTurbulenceSize.java" />
         <option value="$PROJECT_DIR$/src/_684_FindRedundantConnection.java" />
         <option value="$PROJECT_DIR$/src/_1631_MinimumEffortPath.java" />
+        <option value="$PROJECT_DIR$/src/_992_SubarraysWithKDistinct.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="61" />
+    <option name="x" value="1023" />
+    <option name="y" value="73" />
     <option name="width" value="735" />
     <option name="height" value="897" />
   </component>
@@ -109,7 +114,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612857475114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612873618044" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -153,7 +158,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="41" width="490" height="598" extended-state="0" />
+    <frame x="682" y="49" width="490" height="598" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
@@ -459,8 +464,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_1631_MinimumEffortPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="140">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_992_SubarraysWithKDistinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
