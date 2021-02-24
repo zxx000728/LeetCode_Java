@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_1052_MaxSatisfied.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_832_FlipAndInvertImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_1052_MaxSatisfied.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,12 +70,13 @@
         <option value="$PROJECT_DIR$/src/_119_GetRow.java" />
         <option value="$PROJECT_DIR$/src/_697_FindShortestSubArray.java" />
         <option value="$PROJECT_DIR$/src/_1052_MaxSatisfied.java" />
+        <option value="$PROJECT_DIR$/src/_832_FlipAndInvertImage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="78" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="958" />
+    <option name="y" value="100" />
     <option name="width" value="735" />
     <option name="height" value="897" />
   </component>
@@ -116,7 +107,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614150924907" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614153118632" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -160,8 +151,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="52" width="490" height="598" extended-state="0" />
-    <editor active="true" />
+    <frame x="639" y="67" width="490" height="598" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -528,8 +518,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_1052_MaxSatisfied.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_832_FlipAndInvertImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
