@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_697_FindShortestSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1052_MaxSatisfied.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,13 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_697_FindShortestSubArray.java">
+        <entry file="file://$PROJECT_DIR$/src/_1052_MaxSatisfied.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,12 +79,13 @@
         <option value="$PROJECT_DIR$/src/_703_KthLargest.java" />
         <option value="$PROJECT_DIR$/src/_119_GetRow.java" />
         <option value="$PROJECT_DIR$/src/_697_FindShortestSubArray.java" />
+        <option value="$PROJECT_DIR$/src/_1052_MaxSatisfied.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="93" />
+    <option name="x" value="30" />
+    <option name="y" value="78" />
     <option name="width" value="735" />
     <option name="height" value="897" />
   </component>
@@ -118,7 +116,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614066453156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614150924907" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -162,7 +160,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="62" width="490" height="598" extended-state="0" />
+    <frame x="20" y="52" width="490" height="598" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
@@ -525,6 +523,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1052_MaxSatisfied.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
