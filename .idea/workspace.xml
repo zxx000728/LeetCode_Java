@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_566_MatrixReshape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_561_ArrayPairSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_566_MatrixReshape.java">
+        <entry file="file://$PROJECT_DIR$/src/_561_ArrayPairSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -86,12 +86,13 @@
         <option value="$PROJECT_DIR$/src/_1004_LongestOnes.java" />
         <option value="$PROJECT_DIR$/src/_765_MinSwapsCouples.java" />
         <option value="$PROJECT_DIR$/src/_566_MatrixReshape.java" />
+        <option value="$PROJECT_DIR$/src/_561_ArrayPairSum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="84" />
-    <option name="y" value="154" />
+    <option name="x" value="787" />
+    <option name="y" value="172" />
     <option name="width" value="735" />
     <option name="height" value="962" />
   </component>
@@ -122,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614170281794" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614170351995" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -166,7 +167,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="581" y="97" width="490" height="641" extended-state="0" />
+    <frame x="525" y="115" width="490" height="641" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
@@ -582,8 +583,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_566_MatrixReshape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_561_ArrayPairSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
