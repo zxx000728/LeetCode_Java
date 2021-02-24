@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_766_IsToeplitzMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1438_LongestSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_766_IsToeplitzMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/_1438_LongestSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="80">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,14 +85,15 @@
         <option value="$PROJECT_DIR$/src/_1052_MaxSatisfied.java" />
         <option value="$PROJECT_DIR$/src/_832_FlipAndInvertImage.java" />
         <option value="$PROJECT_DIR$/src/_766_IsToeplitzMatrix.java" />
+        <option value="$PROJECT_DIR$/src/_1438_LongestSubarray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
-    <option name="y" value="133" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-17" />
+    <option name="y" value="76" />
     <option name="width" value="735" />
-    <option name="height" value="897" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -118,7 +122,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614153771844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614155206456" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -162,7 +166,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="67" width="490" height="598" extended-state="0" />
+    <frame x="-11" y="51" width="490" height="641" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
@@ -544,8 +548,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_766_IsToeplitzMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="120">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1438_LongestSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
