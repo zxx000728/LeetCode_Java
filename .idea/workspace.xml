@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_561_ArrayPairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_485_FindMaxConsecutiveOnes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_561_ArrayPairSum.java">
+        <entry file="file://$PROJECT_DIR$/src/_485_FindMaxConsecutiveOnes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -87,12 +87,13 @@
         <option value="$PROJECT_DIR$/src/_765_MinSwapsCouples.java" />
         <option value="$PROJECT_DIR$/src/_566_MatrixReshape.java" />
         <option value="$PROJECT_DIR$/src/_561_ArrayPairSum.java" />
+        <option value="$PROJECT_DIR$/src/_485_FindMaxConsecutiveOnes.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="787" />
-    <option name="y" value="172" />
+    <option name="x" value="52" />
+    <option name="y" value="186" />
     <option name="width" value="735" />
     <option name="height" value="962" />
   </component>
@@ -123,7 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614170351995" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614230653961" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -167,7 +168,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="525" y="115" width="490" height="641" extended-state="0" />
+    <frame x="35" y="124" width="490" height="641" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
@@ -590,8 +591,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_561_ArrayPairSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_485_FindMaxConsecutiveOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
