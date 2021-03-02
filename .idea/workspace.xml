@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_1018_PrefixesDivBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1178_FindNumOfValidWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1202_SmallestStringWithSwaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1489_FindCriticalAndPseudoCriticalEdges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1579_MaxNumEdgesToRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_228_SummaryRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_303_NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_304_NumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_395_LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_803_HitBricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_896_IsMonotonic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_947_RemoveStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_959_RegionsBySlashes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_989_AddToArrayForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_778_SwimInWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,13 +15,14 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_1579_MaxNumEdgesToRemove.java">
+        <entry file="file://$PROJECT_DIR$/src/_778_SwimInWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
               <folding>
-                <element signature="e#1592#1593#0" expanded="true" />
-                <element signature="e#2171#2172#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1720#1721#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_239_MaxSlidingWindow.java" />
         <option value="$PROJECT_DIR$/src/_86__Partition.java" />
         <option value="$PROJECT_DIR$/src/_509_Fib.java" />
         <option value="$PROJECT_DIR$/src/_322_CoinChange.java" />
@@ -106,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/_304_NumMatrix.java" />
         <option value="$PROJECT_DIR$/src/_959_RegionsBySlashes.java" />
         <option value="$PROJECT_DIR$/src/_1579_MaxNumEdgesToRemove.java" />
+        <option value="$PROJECT_DIR$/src/_778_SwimInWater.java" />
       </list>
     </option>
   </component>
@@ -141,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614668197724" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614669676600" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -223,16 +211,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_239_MaxSlidingWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_86__Partition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -656,6 +634,18 @@
           <folding>
             <element signature="e#1592#1593#0" expanded="true" />
             <element signature="e#2171#2172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_778_SwimInWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
           </folding>
         </state>
       </provider>
