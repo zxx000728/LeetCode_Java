@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_778_SwimInWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_839_NumSimilarGroups.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,14 +15,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_778_SwimInWater.java">
+        <entry file="file://$PROJECT_DIR$/src/_839_NumSimilarGroups.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
               <folding>
-                <element signature="e#1100#1101#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-                <element signature="e#1720#1721#0" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_86__Partition.java" />
         <option value="$PROJECT_DIR$/src/_509_Fib.java" />
         <option value="$PROJECT_DIR$/src/_322_CoinChange.java" />
         <option value="$PROJECT_DIR$/src/_1423_MaxScore.java" />
@@ -94,11 +91,13 @@
         <option value="$PROJECT_DIR$/src/_959_RegionsBySlashes.java" />
         <option value="$PROJECT_DIR$/src/_1579_MaxNumEdgesToRemove.java" />
         <option value="$PROJECT_DIR$/src/_778_SwimInWater.java" />
+        <option value="$PROJECT_DIR$/src/_839_NumSimilarGroups.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="103" />
+    <option name="x" value="48" />
+    <option name="y" value="244" />
     <option name="width" value="735" />
     <option name="height" value="963" />
   </component>
@@ -129,7 +128,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614669676600" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614670863335" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -173,7 +172,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="69" width="490" height="642" extended-state="0" />
+    <frame x="32" y="163" width="490" height="642" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6313364" />
@@ -211,17 +210,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_86__Partition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_509_Fib.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -646,6 +634,16 @@
             <element signature="e#1100#1101#0" expanded="true" />
             <element signature="e#1201#1202#0" expanded="true" />
             <element signature="e#1720#1721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_839_NumSimilarGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#894#895#0" expanded="true" />
           </folding>
         </state>
       </provider>
