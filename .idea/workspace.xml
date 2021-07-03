@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9184041-0796-417a-8428-c4b3c62d3452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_1190_ReverseParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1707_MaximizeXor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1738_KthLargestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_208_Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_338_CountBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_461_HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_664_StrangePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_692_topKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1074_NumSubmatrixSumTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_451_FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_477_TotalHammingDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_461_HammingDistance.java">
+        <entry file="file://$PROJECT_DIR$/src/_451_FrequencySort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="160">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -45,9 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LargestMerge.java" />
-        <option value="$PROJECT_DIR$/src/_5675_MinAbsDifference.java" />
-        <option value="$PROJECT_DIR$/src/_665_CheckPossibility.java" />
         <option value="$PROJECT_DIR$/src/_547_FindCircleNum.java" />
         <option value="$PROJECT_DIR$/src/_978_MaxTurbulenceSize.java" />
         <option value="$PROJECT_DIR$/src/_684_FindRedundantConnection.java" />
@@ -96,12 +88,15 @@
         <option value="$PROJECT_DIR$/src/_664_StrangePrinter.java" />
         <option value="$PROJECT_DIR$/src/_1190_ReverseParentheses.java" />
         <option value="$PROJECT_DIR$/src/_461_HammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/_477_TotalHammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/_1074_NumSubmatrixSumTarget.java" />
+        <option value="$PROJECT_DIR$/src/_451_FrequencySort.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="103" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="753" />
+    <option name="y" value="27" />
     <option name="width" value="735" />
     <option name="height" value="963" />
   </component>
@@ -111,8 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,10 +122,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622089657836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625287658620" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -176,9 +171,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="69" width="490" height="642" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.63824886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18482648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -213,27 +209,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LargestMerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_5675_MinAbsDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_665_CheckPossibility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_547_FindCircleNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -653,7 +628,31 @@
     <entry file="file://$PROJECT_DIR$/src/_461_HammingDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_477_TotalHammingDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1074_NumSubmatrixSumTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_451_FrequencySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
